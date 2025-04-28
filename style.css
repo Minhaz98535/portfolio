@@ -1,0 +1,95 @@
+.kanit-semibold {
+    color: gainsboro;
+    font-family: "Kanit", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: normal;
+}
+.name-highlight{
+    color: orange;
+}
+.passage{
+    background-color: darkgreen;
+    padding: 10px;
+    color: white;
+}
+.half-width{
+    padding-top: 5%;    
+    padding-left: 5%;
+    margin-top: 2%;
+    margin-left: 2%;
+    width: 40%;
+    float: left;
+}
+.half-width img{
+    width: 80%;
+}
+
+.playwrite-ro-quote{
+    font-family: "Playwrite RO", cursive;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+.click{
+    border: none;
+    font-family: "Kanit", sans serif;
+    font-size: x-large;
+    text-decoration: none;
+    text-align: center;
+    padding: 4px;
+    margin-right: 4px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.linkedin{
+    background-color: rgb(0, 111, 200);
+    color: white;
+}
+.linkedin:hover{
+    background-color: white;
+    color: rgb(0, 111, 200);
+}
+.facebook{
+    background-color: rgb(0, 110, 250);
+    color: white;
+}
+.facebook:hover{
+    background-color: white;
+    color:rgb(0, 110, 250);
+}
+.github{
+    background-color: rgb(0, 0, 12);
+    color: white;
+}
+.github:hover{
+    background-color: white;
+    color: rgb(0, 0, 12);
+}
+#our{
+    color: rgba(52, 110, 245, 0.934);
+}
+.dream{
+    background-color: burlywood;
+    padding: 3%;
+    margin: 3px;
+    margin-top: 5%;
+    color: black;
+}
+.experience{
+    border-left: 10px solid;
+    border-image: linear-gradient(orange, yellow);
+    border-image-slice: 1;
+    background-image: linear-gradient(90deg,brown, rgba(255, 0, 0, 0.38));
+    box-shadow: 2px 2px 5px black;
+    width: 40%;
+    margin: 5%;
+    padding-left: 3%;
+}
+.narration{
+    background-image: linear-gradient(135deg, rgb(231, 247, 254), skyblue);
+    color: darkblue;
+    box-shadow: 10px 10px 5px darkblue;
+    margin: 5% 5% 15% 5%;
+    padding: 3%;
+}
