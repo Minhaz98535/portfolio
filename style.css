@@ -82,9 +82,9 @@
     border-image-slice: 1;
     background-image: linear-gradient(90deg,brown, rgba(255, 0, 0, 0.38));
     box-shadow: 2px 2px 5px black;
-    width: 40%;
+    text-align: center;
     margin: 5%;
-    padding-left: 3%;
+    padding: 3px;
 }
 .narration{
     background-image: linear-gradient(135deg, rgb(231, 247, 254), skyblue);
